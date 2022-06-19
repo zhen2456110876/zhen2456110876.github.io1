@@ -7,7 +7,7 @@ if($url==''){
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>觅鹿MP4播放器</title>
+    <title>MP4播放器</title>
     <script></script>
     <script src="ckplayer/ckplayer.js"></script>
     <script src="ckplayer/jquery-3.2.1.min.js"></script>
