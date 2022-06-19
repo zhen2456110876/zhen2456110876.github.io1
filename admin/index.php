@@ -55,9 +55,9 @@ if(empty($_GET['t'])){
                 </a>
             </li>
               <li>
-                <a class="app-menu__item" href="https://www.x6d.com/">
+                <a class="app-menu__item" href="https://">
                     <i class="app-menu__icon fa fa-laptop"></i>
-                    <span class="app-menu__label">小刀娱乐网</span>
+                    <span class="app-menu__label">~~~~~</span>
                 </a>
             </li>
 
@@ -190,7 +190,7 @@ if(empty($_GET['t'])){
                         </tr>
                          <tr>
                             <td>网址发布页</td>
-                            <td> <a href="http://www.xiaodao.biz/" target="_blank">小刀娱乐网</a></td>
+                            <td> <a href="http://" target="_blank">~~~~~</a></td>
                         </tr>
                        
                     </tbody>

@@ -1,13 +1,13 @@
 <?php
  $aik =  array (
-  'title' => '觅鹿影视',
-  'keyword' => '觅鹿影视',
+  'title' => 'zhen',
+  'keyword' => 'zhen',
   'subtitle' => '',
   'email' => '4',
   'description' => '5',
   'tj' => '',
-  'mobile' => 'https://ruodanglaishi.xyz/?url=',
-  'pc' => 'https://ruodanglaishi.xyz/?url=',
+  'mobile' => 'https://okjx.cc/?url=',
+  'pc' => 'https://okjx.cc/?url=',
   'fooer' => '',
   'icp' => '',
   'list' => '',
