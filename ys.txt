@@ -1,19 +1,20 @@
 {"yqljlist":[{"name":"测试", "url":"http://zhen2456110876.github.io/time.html"},{ "name":"百度一下", "url":"https://www.baidu.com"},{ "name":"😃", "url":"https://s1.ax1x.com/2022/06/25/jFhxyD.jpg"}]}
 
-标题1(欢迎使用易影视)标题1
-标题2(欢迎使用易影视)标题2
-标题3(欢迎使用易影视)标题3
 
-图片1(https://s1.ax1x.com/2022/04/22/L2pb6I.jpg)图片1
-图片2(https://s1.ax1x.com/2022/04/22/L2pb6I.jpg)图片2
-图片3(https://s1.ax1x.com/2022/04/22/L2pb6I.jpg)图片3
+标题1(解析过程中有可能会调用快应用，请务必禁止)标题1
+标题2(如果接口有失效请联系我)标题2
+标题3(此软件为测试版本)标题3
+
+图片1(https://s1.ax1x.com/2022/06/25/jFhLJx.png)图片1
+图片2(https://s1.ax1x.com/2022/06/25/jFhOW6.png)图片2
+图片3(https://i0.hdslb.com/bfs/article/4935f5bcd2c8fefbef2897fc25499e1b3338c741.png)图片3
 
 链接1(http://www.baidu.com/)链接1
 链接2(http://www.baidu.com/)链接2
 链接3(http://www.baidu.com/)链接3
 
-作者()作者
+作者(2456110876)作者
 群号()群号
 会员开关(关闭)会员开关
-卡密(http://www.baidu.com/)卡密
-公告(欢迎使用)公告
+卡密()卡密
+公告(测试版本)公告
